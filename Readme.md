@@ -7,7 +7,7 @@
 
 
 ## The github of ColorUI is [ColorUI](https://www.color-ui.com/)
-
+## The github of Upload pictures and videos to OSS based on ColorUI  is [wx_upload](https://github.com/bypanghu/wx_upload.git) Just use WX
 ## components
 
 - updownList (Drop down list)
