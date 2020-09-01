@@ -1,8 +1,9 @@
 # colorUI Extension
-Base on ColorUI
-This is an extension library of colorui
-Just add some Components and Encapsulation of network API
-If you need some help ,You can send email to bypanghu@163.com
+- Base on ColorUI
+- Only uni-app
+- This is an extension library of colorui
+- Just add some Components and Encapsulation of network API
+- If you need some help ,You can send email to bypanghu@163.com
 
 
 ## The github of ColorUI is [ColorUI](https://www.color-ui.com/)
